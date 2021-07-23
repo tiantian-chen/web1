@@ -1,0 +1,40 @@
+---
+subpage: true
+title: "OsAPL4,OsAGPL4"
+description: ""
+category: genes
+tags: [leaf, seed, starch]
+---
+
+* **Information**  
+    + Symbol: OsAPL4,OsAGPL4  
+    + MSU: [LOC_Os07g13980](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g13980)  
+    + RAPdb: [Os07g0243200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0243200)  
+
+* **Publication**  
+    + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification+of+the+ADP-glucose+pyrophosphorylase+isoforms+essential+for+starch+synthesis+in+the+leaf+and+seed+endosperm+of+rice+Oryza+sativa+L.%5BTitle%5D), 2007, Plant Mol Biol.
+    + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene+expression+of+ADP-glucose+pyrophosphorylase+and+starch+contents+in+rice+cultured+cells+are+cooperatively+regulated+by+sucrose+and+ABA%5BTitle%5D), 2005, Plant Cell Physiol.
+
+* **Genbank accession number**  
+    + [AK121036](http://www.ncbi.nlm.nih.gov/nuccore/AK121036)
+
+* **Key message**  
+    + Subcellular localization studies using green fluorescent protein (GFP) fusion constructs indicate that OsAGPS2a, the product of the leaf-preferential transcript of OsAGPS2, and OsAGPS1, OsAGPL1, OsAGPL3, and OsAGPL4 are plastid-targeted isoforms
+    + OsAPS2 and OsAPL4 were constitutively expressed and these isoforms were coordinated with starch accumulation in the developing rice seed
+
+* **Connection**  
+    + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](LSU) of this enzyme heterotetrameric complex
+    + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](GFP) fusion constructs indicate that OsAGPS2a, the product of the leaf-preferential transcript of OsAGPS2, and OsAGPS1, OsAGPL1, OsAGPL3, and OsAGPL4 are plastid-targeted isoforms
+    + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](LSU) of this enzyme heterotetrameric complex
+    + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](GFP) fusion constructs indicate that OsAGPS2a, the product of the leaf-preferential transcript of OsAGPS2, and OsAGPS1, OsAGPL1, OsAGPL3, and OsAGPL4 are plastid-targeted isoforms
+    + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
+    + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
+    + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
+    + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
+    + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
+    + [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene+expression+of+ADP-glucose+pyrophosphorylase+and+starch+contents+in+rice+cultured+cells+are+cooperatively+regulated+by+sucrose+and+ABA%5BTitle%5D), OsAPS2 and OsAPL4 were constitutively expressed and these isoforms were coordinated with starch accumulation in the developing rice seed
+    + [Plastidic phosphoglucomutase and ADP-glucose pyrophosphorylase mutants impair starch synthesis in rice pollen grains and cause male sterility.](ADP-Glc) pyrophosphorylase, OsAGPL4 Both genes were up-regulated in maturing pollen, a stage when starch begins to accumulate
+    + [Plastidic phosphoglucomutase and ADP-glucose pyrophosphorylase mutants impair starch synthesis in rice pollen grains and cause male sterility.](WT) and heterozygotes revealed that loss of OspPGM or OsAGPL4 caused male sterility, with the former condition rescued by the introduction of the WT OspPGM gene
+
+
+

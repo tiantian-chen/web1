@@ -1,0 +1,6 @@
+name = "Wen Yao"
+# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+bio = "Ph. D."
+company = "Henan Agricultural University"
+location = "Zhengzhou 450002, Chinah"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
